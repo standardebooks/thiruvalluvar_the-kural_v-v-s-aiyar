@@ -41,3 +41,7 @@ p span.i2{
 td{
 	vertical-align: top;
 }
+
+table + p{
+	margin-top: 1em;
+}
