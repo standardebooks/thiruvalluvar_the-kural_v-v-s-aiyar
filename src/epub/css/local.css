@@ -47,6 +47,14 @@ table + p{
 	margin-top: 1em;
 }
 
+#preface ul{
+	list-style-type: none;
+}
+
+#preface li{
+	margin-top: 1em;
+}
+
 p[xml|lang]{
 	font-style: italic;
 }
