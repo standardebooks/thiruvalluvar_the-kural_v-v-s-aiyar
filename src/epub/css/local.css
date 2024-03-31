@@ -71,3 +71,7 @@ footer{
 #preface li{
 	margin-top: 1em;
 }
+
+#note-4 ol{
+	list-style-type: lower-roman;
+}
