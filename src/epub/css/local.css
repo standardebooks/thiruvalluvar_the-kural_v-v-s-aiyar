@@ -27,16 +27,6 @@ header{
 [epub|type~="z3998:verse"] p + p{
 	margin-top: 1em;
 }
-
-p span.i1{
-	padding-left: 2em;
-	text-indent: -1em;
-}
-
-p span.i2{
-	padding-left: 3em;
-	text-indent: -1em;
-}
 /* End verse */
 
 p[xml|lang]{
@@ -54,6 +44,10 @@ footer{
 
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
+}
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
 }
 
 #preface td{
