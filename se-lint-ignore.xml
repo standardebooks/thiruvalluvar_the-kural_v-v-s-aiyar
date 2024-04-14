@@ -6,4 +6,10 @@
 			<reason>The introduction is part of the body of this book.</reason>
 		</ignore>
 	</file>
+	<file path="preface.xhtml">
+		<ignore>
+			<code>s-066</code>
+			<reason>The "Part" does not refer to a semantic part of the document.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>

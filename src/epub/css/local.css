@@ -33,10 +33,6 @@ p[xml|lang]{
 	font-style: italic;
 }
 
-p[xml|lang] + cite{
-	font-style: normal;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -52,10 +48,6 @@ abbr[epub|type~="se:era"]{
 
 #preface td{
 	vertical-align: top;
-}
-
-#preface table + p{
-	margin-top: 1em;
 }
 
 #preface ul{
