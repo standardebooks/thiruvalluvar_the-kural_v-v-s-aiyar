@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>s-056</code>
-			<reason>The backlink is in the last list item.</reason>
-		</ignore>
-	</file>
 	<file path="introduction.xhtml">
 		<ignore>
 			<code>s-036</code>
