@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thiruvalluvar/the-kural/v-v-s-aiyar</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-04-15T18:13:08Z</dc:date>
+		<meta property="dcterms:modified">2024-04-15T18:13:08Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,15 +42,17 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2006001145</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Thiruvalluvar expounds on the subjects of righteousness, wealth, and love.</dc:description>
+		<dc:description id="description">A Tamil weaver-philosopher expounds on the subjects of righteousness, wealth, and love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Traditionally attributed to the weaver-philsopher &lt;a href="https://standardebooks.org/ebooks/thiruvalluvar"&gt;Thiruvalluvar&lt;/a&gt;, the &lt;i&gt;Kural&lt;/i&gt; is a philosophical text composed of 1,330 Tamil couplets called &lt;i&gt;kurals&lt;/i&gt;. Written sometime before the 5th century CE, the &lt;i&gt;Kural&lt;/i&gt; is a comprehensive ethical work divided into three parts, which address righteousness, wealth, and love respectively. (These largely correspond with the life objectives of &lt;i&gt;dharma&lt;/i&gt;, &lt;i&gt;artha&lt;/i&gt;, and &lt;i&gt;kama&lt;/i&gt; found in Hindu thought and Sanskrit literature, omitting the fourth, &lt;i&gt;moksha&lt;/i&gt;, or liberation from the cycle of reincarnation.) It is celebrated as one of the foremost works of classic Tamil literature, having won high acclaim not only in its home country but also internationally among thinkers like &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, who quoted from the &lt;i&gt;Kural&lt;/i&gt; in his “Letter to a Hindu.”&lt;/p&gt;
+			&lt;p&gt;Traditionally attributed to the weaver-philsopher &lt;a href="https://standardebooks.org/ebooks/thiruvalluvar"&gt;Thiruvalluvar&lt;/a&gt;, the &lt;i&gt;Kural&lt;/i&gt; is a philosophical text composed of 1,330 Tamil couplets called &lt;i&gt;kurals&lt;/i&gt;. Written sometime before the 5th century CE, the &lt;i&gt;Kural&lt;/i&gt; is a comprehensive ethical work divided into three parts, which address righteousness, wealth, and love respectively. (These largely correspond with the life objectives of &lt;i&gt;dharma&lt;/i&gt;, &lt;i&gt;artha&lt;/i&gt;, and &lt;i&gt;kama&lt;/i&gt; found in Hindu thought and Sanskrit literature, omitting the fourth, &lt;i&gt;moksha&lt;/i&gt;, or liberation from the cycle of reincarnation.)&lt;/p&gt;
+			&lt;p&gt;It’s celebrated as one of the foremost works of classic Tamil literature, having won high acclaim not only in its home country but also internationally among thinkers like &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, who quoted from the &lt;i&gt;Kural&lt;/i&gt; in his “Letter to a Hindu.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_Kural_or_the_Maxims_of_Tiruvalluvar</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.102804</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:production-notes">Some words have an italicized letter to indicate that the letter is pronounced in the French manner. This convention is explained in endnote 2.</meta>
+		<meta property="se:word-count">38661</meta>
+		<meta property="se:reading-ease.flesch">67.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Kural</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thiruvalluvar_the-kural_v-v-s-aiyar</meta>
 		<dc:creator id="author">Thiruvalluvar</dc:creator>
@@ -86,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
