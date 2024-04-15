@@ -42,7 +42,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2006001145</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">A Tamil weaver-philosopher expounds on the subjects of righteousness, wealth, and love.</dc:description>
+		<dc:description id="description">An Indian weaver-philosopher expounds on the subjects of righteousness, wealth, and love.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Traditionally attributed to the weaver-philsopher &lt;a href="https://standardebooks.org/ebooks/thiruvalluvar"&gt;Thiruvalluvar&lt;/a&gt;, the &lt;i&gt;Kural&lt;/i&gt; is a philosophical text composed of 1,330 Tamil couplets called &lt;i&gt;kurals&lt;/i&gt;. Written sometime before the 5th century CE, the &lt;i&gt;Kural&lt;/i&gt; is a comprehensive ethical work divided into three parts, which address righteousness, wealth, and love respectively. (These largely correspond with the life objectives of &lt;i&gt;dharma&lt;/i&gt;, &lt;i&gt;artha&lt;/i&gt;, and &lt;i&gt;kama&lt;/i&gt; found in Hindu thought and Sanskrit literature, omitting the fourth, &lt;i&gt;moksha&lt;/i&gt;, or liberation from the cycle of reincarnation.)&lt;/p&gt;
 			&lt;p&gt;It’s celebrated as one of the foremost works of classic Tamil literature, having won high acclaim not only in its home country but also internationally among thinkers like &lt;a href="https://standardebooks.org/ebooks/leo-tolstoy"&gt;Leo Tolstoy&lt;/a&gt;, who quoted from the &lt;i&gt;Kural&lt;/i&gt; in his “Letter to a Hindu.”&lt;/p&gt;
@@ -79,7 +79,7 @@
 		<meta property="se:url.homepage" refines="#transcriber-1">https://en.wikisource.org</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#transcriber-1">https://en.wikipedia.org/wiki/Wikisource</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">Weijia, Cheng</dc:contributor>
+		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://weijiarhymeswith.asia</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
