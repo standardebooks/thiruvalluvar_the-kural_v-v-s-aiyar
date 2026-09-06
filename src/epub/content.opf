@@ -52,8 +52,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/The_Kural_or_the_Maxims_of_Tiruvalluvar</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.102804</dc:source>
-		<meta property="schema:wordCount">38578</meta>
-		<meta property="schema:educationalLevel">67.49</meta>
+		<meta property="schema:wordCount">38580</meta>
+		<meta property="schema:educationalLevel">67.38</meta>
 		<link href="https://en.wikipedia.org/wiki/Kural" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
