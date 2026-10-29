@@ -68,7 +68,7 @@
 		<dc:contributor id="translator">V. V. S. Aiyar</dc:contributor>
 		<meta property="file-as" refines="#translator">Aiyar, V. V. S.</meta>
 		<meta property="schema:alternateName" refines="#translator">Varahaneri Venkatesa Subramaniam Aiyar</meta>
-		<meta property="alternate-script" refines="#author">வரகனேரி வேங்கடேச சுப்பிரமணிய ஐயர்</meta>
+		<meta property="alternate-script" refines="#translator">வரகனேரி வேங்கடேச சுப்பிரமணிய ஐயர்</meta>
 		<link href="https://en.wikipedia.org/wiki/V._V._S._Aiyar" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n81022503.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
@@ -80,7 +80,6 @@
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
 		<link href="https://en.wikisource.org/" refines="#transcriber-1" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Wikisource" refines="#transcriber-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
